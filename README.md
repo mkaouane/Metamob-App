@@ -29,24 +29,6 @@ Pour utiliser l'application, vous devez configurer vos accès Metamob dans l'ong
 - **Clé API** : Votre clé `api_key` (nécessaire pour lire vos données).
 - **Identifiant unique** : Votre clé `user_key` (nécessaire pour envoyer vos modifications vers Metamob).
 
-## 🛠️ Développement
-
-L'application est construite avec **Electron**, **React**, **Vite** et **TypeScript**.
-
-### Installation
-```bash
-npm install
-```
-
-### Lancement en mode debug
-```bash
-npm run dev
-```
-
-### Build (Créer l'exécutable Windows)
-```bash
-npm run build:win
-```
 
 ## 📝 Technologies
 - **Frontend** : React 19, Lucide Icons, Framer Motion.
@@ -56,3 +38,4 @@ npm run build:win
 
 ---
 *Développé pour simplifier la quête de l'Éternelle Moisson.*
+
