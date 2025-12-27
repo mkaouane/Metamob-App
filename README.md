@@ -2,7 +2,7 @@
 
 Un assistant moderne pour gérer votre inventaire d'archimonstres sur Metamob. Optimisé pour la rapidité et le confort d'utilisation.
 
-![App Screenshot](resources/icon.png)
+![App Screenshot](icon.png)
 
 ## 🚀 Fonctionnalités
 
@@ -38,4 +38,5 @@ Pour utiliser l'application, vous devez configurer vos accès Metamob dans l'ong
 
 ---
 *Développé pour simplifier la quête de l'Éternelle Moisson.*
+
 
