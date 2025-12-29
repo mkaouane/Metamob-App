@@ -1,7 +1,9 @@
 # Metamob TCS - Assistant Archimonstres
 
 Un assistant moderne pour gérer votre inventaire d'archimonstres sur Metamob. Optimisé pour la rapidité et le confort d'utilisation.
-
+[![Latest Release](https://img.shields.io/github/v/release/mkaouane/Metamob-App?style=for-the-badge&color=38bdf8)](https://github.com/mkaouane/Metamob-App/releases/latest)
+[![Total Downloads](https://img.shields.io/github/downloads/mkaouane/Metamob-App/total?style=for-the-badge&color=fbbf24)](https://github.com/mkaouane/Metamob-App/releases)
+[![Download](https://img.shields.io/badge/Télécharger-Dernière_Version-4ade80?style=for-the-badge&logo=windows)](https://github.com/mkaouane/Metamob-App/releases/latest)
 ![App Screenshot](icon.png)
 
 ## 🚀 Fonctionnalités
@@ -38,5 +40,6 @@ Pour utiliser l'application, vous devez configurer vos accès Metamob dans l'ong
 
 ---
 *Développé pour simplifier la quête de l'Éternelle Moisson.*
+
 
 
